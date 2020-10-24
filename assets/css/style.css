@@ -58,14 +58,27 @@ textarea{
 }
 
 .saveBtn {
-  border-left: 1px solid black;
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
 }
 
-.saveBtn i:hover {
+i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
+  color: black;
+}
+
+.rounded-left {
+  border-radius: 10px;
+}
+.border-dashed {
+  border-top: 1px dashed grey;
+}
+.border-save {
+  background-color: rgba(7, 170, 219, 0.746);
+  border-left: 5px solid rgba(0, 159, 207, 0.685);
+  border-radius: 5px 15px 15px 5px;
+}
+.bg-main-color {
+  background-color: rgba(200, 200, 200, 0.767);
 }
