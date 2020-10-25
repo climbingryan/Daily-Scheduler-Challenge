@@ -7,3 +7,4 @@ This is a daily scheduler for your work day means. You can assign tasks within t
 https://climbingryan.github.io/Daily-Scheduler-Challenge/
 
 # screenshot
+![schedule](https://user-images.githubusercontent.com/15613846/97120290-efb5fa00-16e3-11eb-98e2-c5f9cdb9a435.JPG)
